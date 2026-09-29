@@ -10,9 +10,9 @@ This project involved deploying a static HTML website to Amazon S3 using the sta
 
 ## AWS Services Used
 
--**Amazon S3** - Object storage and static website hosting
--**IAM**- Created a dedicated user with least-privilege permissions (no root account usage)
--**Bucket Policies**- Configured public read access for website content
+- **Amazon S3** — Object storage and static website hosting
+- **IAM** — Created a dedicated user with least-privilege permissions (no root account usage)
+- **Bucket Policies** — Configured public read access for website content
 
 ## What I Learned
 
